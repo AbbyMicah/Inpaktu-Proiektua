@@ -1,0 +1,17 @@
+.Header{
+    background-color: green;
+    text-align: center;
+    font-size: large;
+    color: white;
+}
+.title{
+    text-align: center;
+}
+.Group_Logo{
+    width: 100px;
+    height: 100px;
+}
+.class_img{
+    width: 100px;
+    height: 75px;
+}
