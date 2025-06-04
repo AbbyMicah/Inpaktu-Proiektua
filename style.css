@@ -13,7 +13,27 @@
 }
 .class_img{
     width: 100px;
-    margin:0px 0px 0px 10px;
-    height: 75px;
+    height: 80px;
 }
-
+.school_logo{
+    width: 100px;
+    height: 80px;
+}
+.school_img{
+    width: 140px;
+    float: left;
+    padding-top: 10px;
+}
+.logo{
+    width: 120px;
+    float: left;
+    padding-top: 10px;
+}
+body{
+    font-size: large;
+}
+.class{
+    width: 50px;
+    float: left;
+    padding-top: 10px;   
+}
